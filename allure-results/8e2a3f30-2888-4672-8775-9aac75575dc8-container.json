@@ -1,0 +1,1 @@
+{"uuid":"8e2a3f30-2888-4672-8775-9aac75575dc8","name":"config.baseSetup.closeApp","children":["266b26f2-4fae-4b9a-a736-07f6212197b7"],"description":"","befores":[],"afters":[{"name":"closeApp","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1723045792169,"stop":1723045792647}],"start":1723045792169,"stop":1723045792647}
